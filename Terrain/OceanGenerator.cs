@@ -8,7 +8,7 @@ namespace hm8.Terrain
     {
         // Parámetros que funcionan - NO CAMBIAR EL UMBRAL
         private const float FREQUENCY = 0.000002f;  
-        private const float THRESHOLD = 0.5f;       // EL QUE FUNCIONA
+        private const float THRESHOLD = 0.54f;       // EL QUE FUNCIONA
         
         // Domain warping MUY SUTIL para solo mejorar las costas
         private const float WARP_FREQ = 0.00002f;
