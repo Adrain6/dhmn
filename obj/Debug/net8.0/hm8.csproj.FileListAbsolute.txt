@@ -30,3 +30,4 @@
 /Users/jmolmosa/Desktop/Code/dnhn/hm8/obj/Debug/net8.0/hm8.genruntimeconfig.cache
 /Users/jmolmosa/Desktop/Code/dnhn/hm8/obj/Debug/net8.0/ref/hm8.dll
 /Users/jmolmosa/Desktop/Code/dnhn/hm8/bin/Debug/net8.0/Content/DefaultFont.xnb
+/Users/jmolmosa/Desktop/Code/dnhn/hm8/obj/Debug/net8.0/hm8.sourcelink.json
